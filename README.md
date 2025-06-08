@@ -10,7 +10,7 @@
 - :contentReference[oaicite:45]{index=45}
 
 **🌱 Learning:** Istio, GitOps, SRE practices  
-**🤝 Let’s Connect:** [LinkedIn] · [Email]
+**🤝 Let’s Connect:** [www.linkedin.com/in/iamfarazurrahman] · [farazkhanmba@gmail.com]
 
 ![:contentReference[oaicite:46]{index=46}](link-to-github-readme-stats)
 ![Recent Activity](link-to-activity-card)
