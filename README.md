@@ -1,3 +1,19 @@
+# Hi, I'm Farazur 👋
+
+**🔧 Junior DevOps Engineer** looking to build scalable, automated infrastructure.
+
+**🛠 Tech Stack:** AWS · Docker · Kubernetes · Terraform · GitHub Actions · Prometheus · Python
+
+**🔭 Featured Projects:**
+- :contentReference[oaicite:43]{index=43}
+- :contentReference[oaicite:44]{index=44}
+- :contentReference[oaicite:45]{index=45}
+
+**🌱 Learning:** Istio, GitOps, SRE practices  
+**🤝 Let’s Connect:** [LinkedIn] · [Email]
+
+![:contentReference[oaicite:46]{index=46}](link-to-github-readme-stats)
+![Recent Activity](link-to-activity-card)
 ## Hi there 👋
 
 <!--
